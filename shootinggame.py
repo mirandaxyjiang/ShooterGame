@@ -1,8 +1,3 @@
-#Name: Miranda
-#Date: Jan. 22, 2020
-#Class: ICS3U1-04
-#Description: Runs a game where the user has to shoot ewaste containers and achieve a certain number of points each level which get faster and faster the higher you get.
-
 #Initializing random and pygame
 import random
 
